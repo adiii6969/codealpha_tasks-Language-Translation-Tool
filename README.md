@@ -27,6 +27,7 @@ Icons: Unicode symbols and custom CSS animations
 **Clone the repository:**
 
 git clone https://github.com/yourusername/translation-tool.git
+
 cd translation-tool
 
 **Install dependencies:**

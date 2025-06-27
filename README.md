@@ -14,16 +14,23 @@ One-Click Copy: Copy translations directly to clipboard
 Text-to-Speech: Listen to translations with built-in speech synthesis
 
 Mobile Responsive: Works perfectly on desktop, tablet, and mobile devices
+
 Real-time Features: Character counting, auto-detect language, instant feedback
+
 Modern UI: Glassmorphism design with smooth animations and gradients
+
 Fast & Lightweight: No heavy frameworks, pure vanilla JavaScript
 
 **Technologies Used**
 
 Backend: Python 3.7+ with Flask framework
+
 Frontend: HTML5, CSS3, Vanilla JavaScript (ES6+)
+
 Translation API: MyMemory Translation API (free tier)
+
 Styling: Custom CSS with modern design patterns
+
 Icons: Unicode symbols and custom CSS animations
 
 **Installation & Setup**

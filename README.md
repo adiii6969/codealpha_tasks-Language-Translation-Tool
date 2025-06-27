@@ -6,9 +6,13 @@
 **Features**
 
 Multi-language Support: 20+ languages including English, Spanish, French, German, Arabic, Hindi, Chinese, and more
+
 Smart Language Swap: Instantly swap source and target languages with one click
+
 One-Click Copy: Copy translations directly to clipboard
+
 Text-to-Speech: Listen to translations with built-in speech synthesis
+
 Mobile Responsive: Works perfectly on desktop, tablet, and mobile devices
 Real-time Features: Character counting, auto-detect language, instant feedback
 Modern UI: Glassmorphism design with smooth animations and gradients

@@ -22,6 +22,7 @@ Translation API: MyMemory Translation API (free tier)
 Styling: Custom CSS with modern design patterns
 Icons: Unicode symbols and custom CSS animations
 
+**Installation & Setup**
 **Quick Start**
 
 **Clone the repository:**
